@@ -12,7 +12,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Document(collection = "marketsFairs")
+@Document(collection = "marketMun")
 public class MarketMun {
 
     @Id

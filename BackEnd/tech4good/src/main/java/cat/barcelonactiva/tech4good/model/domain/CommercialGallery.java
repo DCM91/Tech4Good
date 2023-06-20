@@ -12,7 +12,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Document(collection = "commercialGalleries")
+@Document(collection = "commercialGallery")
 public class CommercialGallery {
     @Id
     @Schema(description = "Id")
