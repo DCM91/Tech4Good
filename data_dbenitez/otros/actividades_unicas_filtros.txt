@@ -1,0 +1,21 @@
+- Actividades de la construcción: 'Activitats de la construcció'
+
+- Actividades de transporte: 'Activitats de transport', 'Activitats de transport i emmagatzematge'
+
+- Actividades de almacenamiento: 'Activitats emmagatzematge'
+
+- Actividades inmobiliarias: 'Activitats immobiliàries'
+
+- Actividades industriales: 'Activitats industrials'
+
+- Administración: 'Administració'
+
+- Agencias de viaje: 'Agències de viatge'
+
+- Otros servicios: 'Altres', 'Altres (per exemple VENDING)', 'Altres equipaments esportius', 'Arranjaments', 'Arts gràfiques', 'Associacions', 'Ensenyament', 'Equipaments culturals i recreatius', 'Equipaments religiosos', 'Esports', 'Fabricació tèxtil', 'Informàtica', 'Joguines i esports', 'Joieria, rellotgeria i bijuteria', 'Llibres, diaris i revistes', 'Locutoris', 'Manteniment, neteja i similars', 'Maquinària', 'Material equipament llar', 'Merceria', 'Mobles i articles fusta i metall', 'Música', 'Ous i aus', 'Parament ferreteria', 'Perruqueries', 'Reparacions (Electrodomèstics i automòbils)', 'Sanitat i assistència', 'Segells, monedes i antiguitats', 'Serveis Socials', 'Serveis a les empreses i oficines', 'Serveis de telecomunicacions', 'Souvenirs', 'Souvenirs i basars', 'Tintoreries', 'Veterinaris / Mascotes', 'Autoservei / Supermercat', 'Locals buits en lloguer', 'Locals buits en venda', 'Locals buits en venda i lloguer', 'Locals buits en lloguer', 'Vehicles', 'Vestir'
+Otros: 'En reforma', 'Drogueria i perfumeria', 'Pàrquings i garatges', 'Segells, monedes i antiguitats', 'Sense informació', '
+
+- Alimentación y bebidas: 'Bars / CIBERCAFÈ', 'Bars especials amb actuació / Bars musicals / Discoteques /PUB', 'Basars', 'Begudes', 'Calçat i pell', 'Carn i Porc', 'Farmàcies PARAFARMÀCIA', 'Floristeries', 'Fruites i verdures', 'Gimnàs /fitnes', 'Grans magatzems i hipermercats', 'Herbolaris, dietètica i NUTRICIÓ', 'Pa, pastisseria i làctics', 'Plats preparats (no degustació)', 'Restaurants', 'serveis de menjar take away MENJAR RÀPID', 'Serveis de menjar i begudes', 'Tabac i articles fumadors', 'Xocolateries / Geladeries / Degustació'
+
+- Comercio: 'Autoservei / Supermercat', 'Locals buits en lloguer', 'Locals buits en venda', 'Locals buits en venda i lloguer', 'Locals buits en lloguer', 'Vehicles', 'Vestir'
+Otros: 'En reforma', 'Drogueria i perfumeria', 'Pàrquings i garatges', 'Segells, monedes i antiguitats', 'Sense informació', '

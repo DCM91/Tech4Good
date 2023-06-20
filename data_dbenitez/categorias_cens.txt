@@ -1,0 +1,30 @@
+Estas son las keys que contiene el json:
+
+-Nom_Local
+
+-Nom_Activitat2:
+-----> values ['Otros servicios',
+ 'Actividades de almacenamiento',
+ 'Actividades de transporte',
+ 'Alimentación y bebidas',
+ 'Actividades industriales',
+ 'Actividades inmobiliarias',
+ 'Actividades de la construcción']
+
+-Nom_Barri
+
+-Nom_Districte:
+-----> values['Sants-Montjuïc',
+ 'Sant Martí',
+ 'Gràcia',
+ 'Sant Andreu',
+ 'Ciutat Vella',
+ 'Eixample',
+ 'Sarrià-Sant Gervasi',
+ 'Horta-Guinardó',
+ 'Nou Barris',
+ 'Les Corts']
+
+-Latitud
+-Longitud
+
