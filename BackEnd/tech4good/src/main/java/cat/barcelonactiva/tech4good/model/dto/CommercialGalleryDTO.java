@@ -5,12 +5,11 @@ import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.data.mongodb.core.mapping.Field;
 
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-public class CommercialGalleriesDTO {
+public class CommercialGalleryDTO {
     @JsonProperty("name")
     @Schema(description = "Name")
     private String name;

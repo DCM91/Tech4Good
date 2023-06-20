@@ -12,8 +12,8 @@ import org.springframework.data.mongodb.core.mapping.Field;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Document(collection = "shoppingCenters")
-public class ShoppingCenters {
+@Document(collection = "shoppingCenter")
+public class ShoppingCenter {
     @Id
     @Schema(description = "Id")
     private ObjectId id;
