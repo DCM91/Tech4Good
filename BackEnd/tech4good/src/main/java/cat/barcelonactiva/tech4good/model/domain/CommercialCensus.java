@@ -19,7 +19,7 @@ public class CommercialCensus {
     @Schema(description = "Id")
     private ObjectId id;
 
-    @Field("Nom_Activitat")
+    @Field("Nom_Activitat2")
     @Schema(description = "Activity Name")
     private String nameActivity;
 

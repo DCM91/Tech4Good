@@ -1,10 +1,7 @@
 package cat.barcelonactiva.tech4good.model.service;
 
-import cat.barcelonactiva.tech4good.model.domain.CommercialGalleries;
-import cat.barcelonactiva.tech4good.model.domain.ShoppingCenters;
-import cat.barcelonactiva.tech4good.model.dto.CommercialGalleriesDTO;
-import cat.barcelonactiva.tech4good.model.dto.ShoppingCentersDTO;
-import cat.barcelonactiva.tech4good.model.repository.CommercialGalleriesRepository;
+import cat.barcelonactiva.tech4good.model.domain.ShoppingCenter;
+import cat.barcelonactiva.tech4good.model.dto.ShoppingCenterDTO;
 import cat.barcelonactiva.tech4good.model.repository.ShoppingCenterRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,23 +17,24 @@ public class ShoppingCenterService {
     @Autowired
     private ModelMapper modelMapper;
 
-    public List<ShoppingCentersDTO> findAllCommercialGalleries() {
+    public List<ShoppingCenterDTO> findAllShoppingCenters() {
 
-        List<ShoppingCenters> shoppingCentersDTOS = shoppingCenterRepository.findAll();
-        return convertshoppingCentersListToDTO(shoppingCentersDTOS);
+        List<ShoppingCenter> shoppingCenters = shoppingCenterRepository.findAll();
+        return convertShoppingCentersListToDTO(shoppingCenters);
     }
 
     /**
      * Private method to convert a commercialGalleries to a DTO.
      */
-    private ShoppingCentersDTO convertShoppingCentersToDTO(ShoppingCenters shoppingCenters) {
-        return modelMapper.map(shoppingCenters, ShoppingCentersDTO.class);
+    private ShoppingCenterDTO convertShoppingCentersToDTO(ShoppingCenter shoppingCenter) {
+        return modelMapper.map(shoppingCenter, ShoppingCenterDTO.class);
     }
 
     /**
-     * Private method to convert a list of CommercialGalleries to a DTO.
+     * Private method to convert a list of CommercialGallery to a DTO.
      */
-    private List<ShoppingCentersDTO> convertshoppingCentersListToDTO(List<ShoppingCenters> shoppingCentersList) {
-        return shoppingCentersList.stream().map(this::convertShoppingCentersToDTO).collect(Collectors.toList());
+    private List<ShoppingCenterDTO> convertShoppingCentersListToDTO(List<ShoppingCenter> shoppingCenterList) {
+        return shoppingCenterList.stream().map(this::convertShoppingCentersToDTO).collect(Collectors.toList());
     }
 }
+
