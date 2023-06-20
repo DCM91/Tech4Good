@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Barris = () => {
   return (
-    <div className='border-2 border-secondary'>
+    <div className=''>
         <div>Districtes:</div>
         <ul className='grid p-2 gap-y-3'> 
         <div className='flex justify-between'>
