@@ -7,7 +7,7 @@ import { BsFillSunFill, BsFillMoonStarsFill } from "react-icons/bs";
 
 
 
-export const Layout = ({ title = "Dcm91Portfolio" , children}) => {
+export const Layout = ({ title = "TECH4GOOD" , children}) => {
   const [theme, setTheme] = useState("luxury")
   const handleTheme = () =>{
     setTheme(theme === "luxury" ? "cupcake" : "luxury")
@@ -19,7 +19,7 @@ export const Layout = ({ title = "Dcm91Portfolio" , children}) => {
     <div data-theme={theme} className='h-full grid overflow-hidden'>
         <Head>
             <title>{title}</title>
-            <meta name="description" content="Dcm91 profesional Portfolio" />
+            <meta name="description" content="Comercios locales en Barcelona" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <link rel="icon" href="/favicon.ico" />
         </Head>
