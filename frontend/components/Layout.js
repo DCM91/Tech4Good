@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import { Footer } from './Footer'
 import { Navbar } from './navbar'
 import { Selector } from './selector'
 import { useState } from "react"
@@ -25,21 +24,20 @@ export const Layout = ({ title = "Dcm91Portfolio" , children}) => {
             <link rel="icon" href="/favicon.ico" />
         </Head>
 
-        <header className='w-full px-4'>
+        <header className='w-full'>
           <div>
             <Navbar theme={theme}/>
-            <div className='w-full flex items-center justify-end'>
+            <div className='w-full flex items-center justify-end my-1'>
               <BsFillSunFill className='mx-1 text-lg'/>
               <input type="checkbox" className="toggle toggle-md" id="luxury" checked={theme === "luxury"} onChange={handleTheme} />
               <BsFillMoonStarsFill className='mx-1 mr-4' />
-              <Selector />
             </div>
           </div>
         </header>
 
         <main className='border-4 border-orange-700'>{children}</main>
 
-        <footer className=''><Footer theme={theme} /></footer>
+        <footer className=''>SOY UN FOOTER</footer>
     </div>
   )
 }

@@ -12,3 +12,6 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.a{
+  color: #fff;
+}
