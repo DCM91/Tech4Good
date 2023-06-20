@@ -1,0 +1,42 @@
+[
+  {
+    "": 0,
+    "name": "Galeria Comercial Argentina Center",
+    "addresses_district_name": "Gràcia",
+    "addresses_neighborhood_name": "Vallcarca i els Penitents",
+    "addresses_road_name": "Av República Argentina",
+    "addresses_zip_code": 8023,
+    "geo_epgs_4326_x": 41.41266440969524,
+    "geo_epgs_4326_y": 2.1398768811289672
+  },
+  {
+    "": 1,
+    "name": "Centre Comercial Encants Nous",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "la Sagrada Família",
+    "addresses_road_name": "C Dos de Maig",
+    "addresses_zip_code": 8013,
+    "geo_epgs_4326_x": 41.4065320482933,
+    "geo_epgs_4326_y": 2.182600099720309
+  },
+  {
+    "": 2,
+    "name": "Galeria Comercial Bulevard dels Antiquaris",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "la Dreta de l'Eixample",
+    "addresses_road_name": "Pg Gràcia",
+    "addresses_zip_code": 8007,
+    "geo_epgs_4326_x": 41.39259018311431,
+    "geo_epgs_4326_y": 2.1639078381745587
+  },
+  {
+    "": 3,
+    "name": "Galeria Comercial Les Galeries Maldà",
+    "addresses_district_name": "Ciutat Vella",
+    "addresses_neighborhood_name": "el Barri Gòtic",
+    "addresses_road_name": "C Portaferrissa",
+    "addresses_zip_code": 8002,
+    "geo_epgs_4326_x": 41.38360172819359,
+    "geo_epgs_4326_y": 2.173167480052121
+  }
+]

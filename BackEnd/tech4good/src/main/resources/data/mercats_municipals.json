@@ -1,0 +1,512 @@
+[
+  {
+    "": 0,
+    "name": "Mercat de Sant Josep - La Boqueria",
+    "addresses_district_name": "Ciutat Vella",
+    "addresses_neighborhood_name": "el Raval",
+    "addresses_road_name": "Carrer la Rambla",
+    "addresses_zip_code": 8002,
+    "geo_epgs_4326_x": 41.38204889437501,
+    "geo_epgs_4326_y": 2.17227075910574
+  },
+  {
+    "": 1,
+    "name": "Mercat de Santa Caterina",
+    "addresses_district_name": "Ciutat Vella",
+    "addresses_neighborhood_name": "Sant Pere, Santa Caterina i la Ribera",
+    "addresses_road_name": "Av Francesc Cambó",
+    "addresses_zip_code": 8003,
+    "geo_epgs_4326_x": 41.38639488164491,
+    "geo_epgs_4326_y": 2.1781771121189712
+  },
+  {
+    "": 2,
+    "name": "Mercat d'Hostafrancs",
+    "addresses_district_name": "Sants-Montjuïc",
+    "addresses_neighborhood_name": "Hostafrancs",
+    "addresses_road_name": "Carrer de la Creu Coberta",
+    "addresses_zip_code": 8014,
+    "geo_epgs_4326_x": 41.37516234439833,
+    "geo_epgs_4326_y": 2.143853943380838
+  },
+  {
+    "": 3,
+    "name": "Mercat de Sants",
+    "addresses_district_name": "Sants-Montjuïc",
+    "addresses_neighborhood_name": "Sants",
+    "addresses_road_name": "C Sant Jordi",
+    "addresses_zip_code": 8028,
+    "geo_epgs_4326_x": 41.37474144032811,
+    "geo_epgs_4326_y": 2.133754628418325
+  },
+  {
+    "": 4,
+    "name": "Mercat de la Marina",
+    "addresses_district_name": "Sants-Montjuïc",
+    "addresses_neighborhood_name": "la Marina de Port",
+    "addresses_road_name": "Passeig de la Zona Franca",
+    "addresses_zip_code": 8038,
+    "geo_epgs_4326_x": 41.36038025969584,
+    "geo_epgs_4326_y": 2.1391929530213143
+  },
+  {
+    "": 5,
+    "name": "Mercat de Ciutat Meridiana",
+    "addresses_district_name": "Nou Barris",
+    "addresses_neighborhood_name": "Ciutat Meridiana",
+    "addresses_road_name": "Carrer de Costabona",
+    "addresses_zip_code": 8033,
+    "geo_epgs_4326_x": 41.46171736162206,
+    "geo_epgs_4326_y": 2.17781157944736
+  },
+  {
+    "": 6,
+    "name": "Mercat de Sant Andreu",
+    "addresses_district_name": "Sant Andreu",
+    "addresses_neighborhood_name": "Sant Andreu",
+    "addresses_road_name": "Plaça del Mercadal",
+    "addresses_zip_code": 8030,
+    "geo_epgs_4326_x": 41.43489312913731,
+    "geo_epgs_4326_y": 2.1883934902332927
+  },
+  {
+    "": 7,
+    "name": "Mercat Encants Barcelona - Fira de Bellcaire",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "el Fort Pienc",
+    "addresses_road_name": "Carrer de los Castillejos",
+    "addresses_zip_code": 8013,
+    "geo_epgs_4326_x": 41.401063548775554,
+    "geo_epgs_4326_y": 2.1856692459565465
+  },
+  {
+    "": 8,
+    "name": "Mercat Encants Barcelona - Fira de Bellcaire",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "el Fort Pienc",
+    "addresses_road_name": "Carrer de los Castillejos",
+    "addresses_zip_code": 8013,
+    "geo_epgs_4326_x": 41.401063548775554,
+    "geo_epgs_4326_y": 2.1856692459565465
+  },
+  {
+    "": 9,
+    "name": "Mercat de Concepció",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "la Dreta de l'Eixample",
+    "addresses_road_name": "Carrer d'Aragó",
+    "addresses_zip_code": 8009,
+    "geo_epgs_4326_x": 41.39556815947775,
+    "geo_epgs_4326_y": 2.169071648271845
+  },
+  {
+    "": 10,
+    "name": "Mercat de Concepció",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "la Dreta de l'Eixample",
+    "addresses_road_name": "Carrer d'Aragó",
+    "addresses_zip_code": 8009,
+    "geo_epgs_4326_x": 41.39556815947775,
+    "geo_epgs_4326_y": 2.169071648271845
+  },
+  {
+    "": 11,
+    "name": "Mercat de Sagrada Família",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "la Sagrada Família",
+    "addresses_road_name": "Carrer de Padilla",
+    "addresses_zip_code": 8013,
+    "geo_epgs_4326_x": 41.40571844762519,
+    "geo_epgs_4326_y": 2.177029420136341
+  },
+  {
+    "": 12,
+    "name": "Mercat de Sant Antoni",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "Sant Antoni",
+    "addresses_road_name": "Carrer del Comte d'Urgell",
+    "addresses_zip_code": 8011,
+    "geo_epgs_4326_x": 41.37956821941282,
+    "geo_epgs_4326_y": 2.161743115837759
+  },
+  {
+    "": 13,
+    "name": "Mercat de Les Corts",
+    "addresses_district_name": "Les Corts",
+    "addresses_neighborhood_name": "les Corts",
+    "addresses_road_name": "Travessera de les Corts",
+    "addresses_zip_code": 8028,
+    "geo_epgs_4326_x": 41.38407806063042,
+    "geo_epgs_4326_y": 2.1298048647400445
+  },
+  {
+    "": 14,
+    "name": "Mercat de Les Corts",
+    "addresses_district_name": "Les Corts",
+    "addresses_neighborhood_name": "les Corts",
+    "addresses_road_name": "Travessera de les Corts",
+    "addresses_zip_code": 8028,
+    "geo_epgs_4326_x": 41.38407806063042,
+    "geo_epgs_4326_y": 2.1298048647400445
+  },
+  {
+    "": 15,
+    "name": "Mercat de Galvany",
+    "addresses_district_name": "Sarrià-Sant Gervasi",
+    "addresses_neighborhood_name": "Sant Gervasi - Galvany",
+    "addresses_road_name": "Carrer de Santaló",
+    "addresses_zip_code": 8021,
+    "geo_epgs_4326_x": 41.39668239144884,
+    "geo_epgs_4326_y": 2.143678943368952
+  },
+  {
+    "": 16,
+    "name": "Mercat de Les Tres Torres",
+    "addresses_district_name": "Sarrià-Sant Gervasi",
+    "addresses_neighborhood_name": "les Tres Torres",
+    "addresses_road_name": "Carrer dels Vergós",
+    "addresses_zip_code": 8017,
+    "geo_epgs_4326_x": 41.39994475791636,
+    "geo_epgs_4326_y": 2.131280890433586
+  },
+  {
+    "": 17,
+    "name": "Mercat de Sant Gervasi",
+    "addresses_district_name": "Sarrià-Sant Gervasi",
+    "addresses_neighborhood_name": "Sant Gervasi - la Bonanova",
+    "addresses_road_name": "Pl Joaquim Folguera",
+    "addresses_zip_code": 8022,
+    "geo_epgs_4326_x": 41.40566335305059,
+    "geo_epgs_4326_y": 2.138545571747631
+  },
+  {
+    "": 18,
+    "name": "Mercat de l'Estrella",
+    "addresses_district_name": "Gràcia",
+    "addresses_neighborhood_name": "el Camp d'en Grassot i Gràcia Nova",
+    "addresses_road_name": "Carrer de Pi i Margall",
+    "addresses_zip_code": 8024,
+    "geo_epgs_4326_x": 41.40991109490562,
+    "geo_epgs_4326_y": 2.1639930826470137
+  },
+  {
+    "": 19,
+    "name": "Mercat de Vall d'Hebron -Taxonera",
+    "addresses_district_name": "Horta-Guinardó",
+    "addresses_neighborhood_name": "la Teixonera",
+    "addresses_road_name": "Pg Vall d'Hebron",
+    "addresses_zip_code": 8035,
+    "geo_epgs_4326_x": 41.42406217314218,
+    "geo_epgs_4326_y": 2.142452280248374
+  },
+  {
+    "": 20,
+    "name": "Mercat d'Horta",
+    "addresses_district_name": "Horta-Guinardó",
+    "addresses_neighborhood_name": "Horta",
+    "addresses_road_name": "Carrer del Tajo",
+    "addresses_zip_code": 8032,
+    "geo_epgs_4326_x": 41.42962510164449,
+    "geo_epgs_4326_y": 2.1596089875560494
+  },
+  {
+    "": 21,
+    "name": "Mercat de la Mercè",
+    "addresses_district_name": "Nou Barris",
+    "addresses_neighborhood_name": "el Turó de la Peira",
+    "addresses_road_name": "Passeig de Fabra i Puig",
+    "addresses_zip_code": 8031,
+    "geo_epgs_4326_x": 41.43048313492197,
+    "geo_epgs_4326_y": 2.1735994954221325
+  },
+  {
+    "": 22,
+    "name": "Mercat del Bon Pastor",
+    "addresses_district_name": "Sant Andreu",
+    "addresses_neighborhood_name": "el Bon Pastor",
+    "addresses_road_name": "C Sant Adrià",
+    "addresses_zip_code": 8030,
+    "geo_epgs_4326_x": 41.43601348746425,
+    "geo_epgs_4326_y": 2.206172152917636
+  },
+  {
+    "": 23,
+    "name": "Mercat de Sant Martí",
+    "addresses_district_name": "Sant Martí",
+    "addresses_neighborhood_name": "la Verneda i la Pau",
+    "addresses_road_name": "Carrer de Puigcerdà",
+    "addresses_zip_code": 8020,
+    "geo_epgs_4326_x": 41.41865648109575,
+    "geo_epgs_4326_y": 2.2053227925569847
+  },
+  {
+    "": 24,
+    "name": "Mercat del Besòs",
+    "addresses_district_name": "Sant Martí",
+    "addresses_neighborhood_name": "el Besòs i el Maresme",
+    "addresses_road_name": "C Jaume Huguet",
+    "addresses_zip_code": 8019,
+    "geo_epgs_4326_x": 41.419232167534055,
+    "geo_epgs_4326_y": 2.2151291359475485
+  },
+  {
+    "": 25,
+    "name": "Mercat de Lesseps",
+    "addresses_district_name": "Gràcia",
+    "addresses_neighborhood_name": "la Salut",
+    "addresses_road_name": "Carrer de Verdi",
+    "addresses_zip_code": 8024,
+    "geo_epgs_4326_x": 41.40913237323212,
+    "geo_epgs_4326_y": 2.1520583716061497
+  },
+  {
+    "": 26,
+    "name": "Mercat Encants de Sant Antoni",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "Sant Antoni",
+    "addresses_road_name": "C Comte d'Urgell",
+    "addresses_zip_code": 8011,
+    "geo_epgs_4326_x": 41.38130154687465,
+    "geo_epgs_4326_y": 2.1634511872440987
+  },
+  {
+    "": 27,
+    "name": "Mercat Encants de Sant Antoni",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "Sant Antoni",
+    "addresses_road_name": "C Comte d'Urgell",
+    "addresses_zip_code": 8011,
+    "geo_epgs_4326_x": 41.38130154687465,
+    "geo_epgs_4326_y": 2.1634511872440987
+  },
+  {
+    "": 28,
+    "name": "Mercat de Montserrat",
+    "addresses_district_name": "Nou Barris",
+    "addresses_neighborhood_name": "les Roquetes",
+    "addresses_road_name": "Via Favència",
+    "addresses_zip_code": 8042,
+    "geo_epgs_4326_x": 41.446325072623445,
+    "geo_epgs_4326_y": 2.1787888337114434
+  },
+  {
+    "": 29,
+    "name": "Mercat del Guinardó",
+    "addresses_district_name": "Horta-Guinardó",
+    "addresses_neighborhood_name": "el Guinardó",
+    "addresses_road_name": "C Teodor Llorente",
+    "addresses_zip_code": 8041,
+    "geo_epgs_4326_x": 41.41915185087623,
+    "geo_epgs_4326_y": 2.179721442393662
+  },
+  {
+    "": 30,
+    "name": "Mercat de la Guineueta",
+    "addresses_district_name": "Nou Barris",
+    "addresses_neighborhood_name": "la Guineueta",
+    "addresses_road_name": "Passeig de Valldaura",
+    "addresses_zip_code": 8042,
+    "geo_epgs_4326_x": 41.43865254771624,
+    "geo_epgs_4326_y": 2.170245672758619
+  },
+  {
+    "": 31,
+    "name": "Mercat del Clot",
+    "addresses_district_name": "Sant Martí",
+    "addresses_neighborhood_name": "el Clot",
+    "addresses_road_name": "Pl Mercat",
+    "addresses_zip_code": 8018,
+    "geo_epgs_4326_x": 41.40761694241932,
+    "geo_epgs_4326_y": 2.188644372365021
+  },
+  {
+    "": 32,
+    "name": "Mercat del Poblenou - Unió",
+    "addresses_district_name": "Sant Martí",
+    "addresses_neighborhood_name": "el Poblenou",
+    "addresses_road_name": "Pl Unió",
+    "addresses_zip_code": 8005,
+    "geo_epgs_4326_x": 41.40102174848232,
+    "geo_epgs_4326_y": 2.205429196399153
+  },
+  {
+    "": 33,
+    "name": "Mercat de Provençals",
+    "addresses_district_name": "Sant Martí",
+    "addresses_neighborhood_name": "Sant Martí de Provençals",
+    "addresses_road_name": "Carrer de Menorca",
+    "addresses_zip_code": 8020,
+    "geo_epgs_4326_x": 41.41945750050879,
+    "geo_epgs_4326_y": 2.1964853596577782
+  },
+  {
+    "": 34,
+    "name": "Mercat del Ninot",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "l'Antiga Esquerra de l'Eixample",
+    "addresses_road_name": "Carrer de Mallorca",
+    "addresses_zip_code": 8036,
+    "geo_epgs_4326_x": 41.38785716567696,
+    "geo_epgs_4326_y": 2.1544122344047523
+  },
+  {
+    "": 35,
+    "name": "Mercat de Sarrià",
+    "addresses_district_name": "Sarrià-Sant Gervasi",
+    "addresses_neighborhood_name": "Sarrià",
+    "addresses_road_name": "Pg Reina Elisenda Montcada",
+    "addresses_zip_code": 8034,
+    "geo_epgs_4326_x": 41.3998359320904,
+    "geo_epgs_4326_y": 2.1207231796604997
+  },
+  {
+    "": 36,
+    "name": "Mercat de Sarrià",
+    "addresses_district_name": "Sarrià-Sant Gervasi",
+    "addresses_neighborhood_name": "Sarrià",
+    "addresses_road_name": "Pg Reina Elisenda Montcada",
+    "addresses_zip_code": 8034,
+    "geo_epgs_4326_x": 41.3998359320904,
+    "geo_epgs_4326_y": 2.1207231796604997
+  },
+  {
+    "": 37,
+    "name": "Mercat de l'Abaceria Central",
+    "addresses_district_name": "Gràcia",
+    "addresses_neighborhood_name": "el Camp d'en Grassot i Gràcia Nova",
+    "addresses_road_name": "Pg Sant Joan",
+    "addresses_zip_code": 8037,
+    "geo_epgs_4326_x": 41.40318652868216,
+    "geo_epgs_4326_y": 2.164179164252221
+  },
+  {
+    "": 38,
+    "name": "Mercat de les Flors *Les Rambles",
+    "addresses_district_name": "Ciutat Vella",
+    "addresses_neighborhood_name": "el Barri Gòtic",
+    "addresses_road_name": "C la Rambla",
+    "addresses_zip_code": 8002,
+    "geo_epgs_4326_x": 41.38298645419762,
+    "geo_epgs_4326_y": 2.1719482422846794
+  },
+  {
+    "": 39,
+    "name": "Mercat de les Flors *Les Rambles",
+    "addresses_district_name": "Ciutat Vella",
+    "addresses_neighborhood_name": "el Barri Gòtic",
+    "addresses_road_name": "C la Rambla",
+    "addresses_zip_code": 8002,
+    "geo_epgs_4326_x": 41.38298645419762,
+    "geo_epgs_4326_y": 2.1719482422846794
+  },
+  {
+    "": 40,
+    "name": "Mercat de Llibertat",
+    "addresses_district_name": "Gràcia",
+    "addresses_neighborhood_name": "la Vila de Gràcia",
+    "addresses_road_name": "Plaça de la Llibertat",
+    "addresses_zip_code": 8012,
+    "geo_epgs_4326_x": 41.39973784880562,
+    "geo_epgs_4326_y": 2.1537484882528983
+  },
+  {
+    "": 41,
+    "name": "Mercat del Carmel",
+    "addresses_district_name": "Horta-Guinardó",
+    "addresses_neighborhood_name": "el Carmel",
+    "addresses_road_name": "C Llobregós",
+    "addresses_zip_code": 8032,
+    "geo_epgs_4326_x": 41.42374046652592,
+    "geo_epgs_4326_y": 2.155809762118894
+  },
+  {
+    "": 42,
+    "name": "Mercat de la Trinitat",
+    "addresses_district_name": "Nou Barris",
+    "addresses_neighborhood_name": "la Trinitat Nova",
+    "addresses_road_name": "Carrer de la Pedrosa",
+    "addresses_zip_code": 8033,
+    "geo_epgs_4326_x": 41.44869202746852,
+    "geo_epgs_4326_y": 2.1842333444483297
+  },
+  {
+    "": 43,
+    "name": "Mercat de la Trinitat",
+    "addresses_district_name": "Nou Barris",
+    "addresses_neighborhood_name": "la Trinitat Nova",
+    "addresses_road_name": "Carrer de la Pedrosa",
+    "addresses_zip_code": 8033,
+    "geo_epgs_4326_x": 41.44869202746852,
+    "geo_epgs_4326_y": 2.1842333444483297
+  },
+  {
+    "": 44,
+    "name": "Mercat de Felip II",
+    "addresses_district_name": "Sant Andreu",
+    "addresses_neighborhood_name": "la Sagrera",
+    "addresses_road_name": "Carrer de Felip II",
+    "addresses_zip_code": 8027,
+    "geo_epgs_4326_x": 41.42202611203264,
+    "geo_epgs_4326_y": 2.1850927220559564
+  },
+  {
+    "": 45,
+    "name": "Mercat de Barceloneta",
+    "addresses_district_name": "Ciutat Vella",
+    "addresses_neighborhood_name": "la Barceloneta",
+    "addresses_road_name": "Plaça del Poeta Boscà",
+    "addresses_zip_code": 8003,
+    "geo_epgs_4326_x": 41.38024616800818,
+    "geo_epgs_4326_y": 2.18928120267198
+  },
+  {
+    "": 46,
+    "name": "Mercat de Canyelles",
+    "addresses_district_name": "Nou Barris",
+    "addresses_neighborhood_name": "Canyelles",
+    "addresses_road_name": "Carrer d'Antonio Machado",
+    "addresses_zip_code": 8042,
+    "geo_epgs_4326_x": 41.44198819289088,
+    "geo_epgs_4326_y": 2.16442712064519
+  },
+  {
+    "": 47,
+    "name": "Mercat Dominical de Sant Antoni",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "Sant Antoni",
+    "addresses_road_name": "C Comte d'Urgell",
+    "addresses_zip_code": 8011,
+    "geo_epgs_4326_x": 41.37956821941282,
+    "geo_epgs_4326_y": 2.161743115837759
+  },
+  {
+    "": 48,
+    "name": "Mercat Dominical de Sant Antoni",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "Sant Antoni",
+    "addresses_road_name": "C Comte d'Urgell",
+    "addresses_zip_code": 8011,
+    "geo_epgs_4326_x": 41.37956821941282,
+    "geo_epgs_4326_y": 2.161743115837759
+  },
+  {
+    "": 49,
+    "name": "Mercat de Núria",
+    "addresses_district_name": "Nou Barris",
+    "addresses_neighborhood_name": "Ciutat Meridiana",
+    "addresses_road_name": "Avinguda dels Rasos de Peguera",
+    "addresses_zip_code": 8033,
+    "geo_epgs_4326_x": 41.45995202920537,
+    "geo_epgs_4326_y": 2.1726367468768304
+  },
+  {
+    "": 50,
+    "name": "Mercat del Fort Pienc",
+    "addresses_district_name": "Eixample",
+    "addresses_neighborhood_name": "el Fort Pienc",
+    "addresses_road_name": "Pl Fort Pienc",
+    "addresses_zip_code": 8013,
+    "geo_epgs_4326_x": 41.39577357186832,
+    "geo_epgs_4326_y": 2.182541089615223
+  }
+]
