@@ -1,7 +1,7 @@
 package cat.barcelonactiva.tech4good.controller;
 
 import cat.barcelonactiva.tech4good.model.dto.CommercialCensusDTO;
-import cat.barcelonactiva.tech4good.model.service.Tech4GoodService;
+import cat.barcelonactiva.tech4good.model.service.CommercialCensusService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
@@ -20,7 +20,7 @@ import java.util.List;
 public class Tech4GoodController {
 
     @Autowired
-    Tech4GoodService tech4GoodService;
+    CommercialCensusService commercialCensusService;
 
     @GetMapping(value = "/commercialCensus", produces = "application/json")
     @Operation(summary = "Returns all the commercial census of Barcelona", description = "Returns a list with all commercial census")
@@ -29,7 +29,7 @@ public class Tech4GoodController {
             })
 
     public ResponseEntity<List<CommercialCensusDTO>> getAllCommercialCensus() {
-        return new ResponseEntity<>(tech4GoodService.findAllCommercialCensus(), HttpStatus.OK);
+        return new ResponseEntity<>(commercialCensusService.findAllCommercialCensus(), HttpStatus.OK);
     }
 
 }

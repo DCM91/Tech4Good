@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 
 @Service
-public class Tech4GoodService {
+public class CommercialCensusService {
 
     @Autowired
     CommercialCensusRepository commercialCensusRepository;
