@@ -4,9 +4,12 @@ import React from 'react'
 
 export default function centresComercials() {
   return (
-    <Layout>
-        <div className='h-80'>centresComercials</div>
-        <Barris />
+    <Layout title="Tech4good - Centres Comercials">
+        <div className='text-2xl'>Centres Comercials</div>
+        <div className='flex w-100 py-5 px-10'>
+          <Barris />
+        </div>
+        
     </Layout>
     
   )
