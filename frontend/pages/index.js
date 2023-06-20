@@ -18,13 +18,13 @@ export default function Home() {
 
 
   return (
-    <Layout title="Dcm91Portfolio - Home">
+    <Layout title="tech4good - Home">
       <div className="container_home">
          <div className="home_content">
-            <h1>Moute, <span className="home_bold">Barcelona.</span></h1>
+            <h1>Mou-te <span className="home_bold">Barcelona.</span></h1>
             <p>El <span className="home_bold">comerç local</span> contribueix a una <span className="home_bold">Barcelona</span> més forta, vibrant i sostenible.</p>
             <p>Et donem tota <span className="home_bold">la informació que necessites.</span></p>
-            <button className="home_button"><Link href={"/comercios"} >Busca al meu entorn</Link></button> 
+            <button className="home_button"><Link href={"/comercios"} >Connecta amb la teva xarxa</Link></button> 
         </div>
       </div>  
     </Layout>
