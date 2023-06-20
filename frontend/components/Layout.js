@@ -26,7 +26,7 @@ export const Layout = ({ title = "TECH4GOOD" , children}) => {
 
         <header className='w-full'>
           <div>
-            <Navbar theme={theme}/>
+            <Navbar theme={theme} />
             <div className='w-full flex items-center justify-end my-1'>
               <BsFillSunFill className='mx-1 text-lg'/>
               <input type="checkbox" className="toggle toggle-md" id="luxury" checked={theme === "luxury"} onChange={handleTheme} />
