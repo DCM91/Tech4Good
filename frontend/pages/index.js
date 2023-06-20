@@ -3,6 +3,7 @@ import { Layout } from "../components/Layout"
 import en from "@/languages/en"
 import es from "@/languages/es"
 import fr from "@/languages/fr"
+import Link from "next/link"
 
 export default function Home() {
   const router = useRouter()
@@ -23,7 +24,7 @@ export default function Home() {
             <h1>Moute, <span className="home_bold">Barcelona.</span></h1>
             <p>El <span className="home_bold">comerç local</span> contribueix a una <span className="home_bold">Barcelona</span> més forta, vibrant i sostenible.</p>
             <p>Et donem tota <span className="home_bold">la informació que necessites.</span></p>
-            <button className="home_button">Busca al meu entorn</button> 
+            <button className="home_button"><Link href={"/comercios"} >Busca al meu entorn</Link></button> 
         </div>
       </div>  
     </Layout>
