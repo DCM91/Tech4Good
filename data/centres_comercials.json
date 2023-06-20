@@ -1,1 +1,245 @@
-[{"name":"Centre Comercial Som Multiespai","addresses_road_name":"Av Rio de Janeiro","addresses_neighborhood_name":"Porta","addresses_district_name":"Nou Barris","addresses_zip_code":8016,"geo_epgs_4326_x":41.4351247303,"geo_epgs_4326_y":2.1810417658},{"name":"Centre Comercial Diagonal Mar","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"Diagonal Mar i el Front Marítim del Poblenou","addresses_district_name":"Sant Martí","addresses_zip_code":8019,"geo_epgs_4326_x":41.410457444,"geo_epgs_4326_y":2.2164227599},{"name":"Hipermercat Carrefour *Glòries","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"el Parc i la Llacuna del Poblenou","addresses_district_name":"Sant Martí","addresses_zip_code":8018,"geo_epgs_4326_x":41.4049757486,"geo_epgs_4326_y":2.1925213553},{"name":"Centre Comercial L'Illa Diagonal","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"les Corts","addresses_district_name":"Les Corts","addresses_zip_code":8029,"geo_epgs_4326_x":41.3897455997,"geo_epgs_4326_y":2.1353959606},{"name":"Centre Comercial Westfield Glòries","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"el Parc i la Llacuna del Poblenou","addresses_district_name":"Sant Martí","addresses_zip_code":8018,"geo_epgs_4326_x":41.4049757486,"geo_epgs_4326_y":2.1925213553},{"name":"Centre Comercial Maremàgnum","addresses_road_name":"Moll Espanya","addresses_neighborhood_name":"el Barri Gòtic","addresses_district_name":"Ciutat Vella","addresses_zip_code":8039,"geo_epgs_4326_x":41.3757618954,"geo_epgs_4326_y":2.1832313336},{"name":"Centre Comercial El Triangle","addresses_road_name":"C Pelai","addresses_neighborhood_name":"la Dreta de l'Eixample","addresses_district_name":"Eixample","addresses_zip_code":8001,"geo_epgs_4326_x":41.3857340657,"geo_epgs_4326_y":2.1688916589},{"name":"Hipercor *Avinguda Meridiana","addresses_road_name":"Av Meridiana","addresses_neighborhood_name":"la Sagrera","addresses_district_name":"Sant Andreu","addresses_zip_code":8027,"geo_epgs_4326_x":41.4279468366,"geo_epgs_4326_y":2.1850127148},{"name":"Botiga FNAC *El Triangle","addresses_road_name":"Pl Catalunya","addresses_neighborhood_name":"la Dreta de l'Eixample","addresses_district_name":"Eixample","addresses_zip_code":8002,"geo_epgs_4326_x":41.3860450751,"geo_epgs_4326_y":2.1694182154},{"name":"El Corte Inglés *Can Dragó","addresses_road_name":"Pg Andreu Nin","addresses_neighborhood_name":"Porta","addresses_district_name":"Nou Barris","addresses_zip_code":8016,"geo_epgs_4326_x":41.4363372665,"geo_epgs_4326_y":2.1812610516},{"name":"Hipermercat Carrefour *La Maquinista","addresses_road_name":"Pg Potosí","addresses_neighborhood_name":"el Bon Pastor","addresses_district_name":"Sant Andreu","addresses_zip_code":8030,"geo_epgs_4326_x":41.4425624577,"geo_epgs_4326_y":2.1983701814},{"name":"El Corte Inglés *Plaça Catalunya","addresses_road_name":"Pl Catalunya","addresses_neighborhood_name":"la Dreta de l'Eixample","addresses_district_name":"Eixample","addresses_zip_code":8002,"geo_epgs_4326_x":41.3878341439,"geo_epgs_4326_y":2.171224014},{"name":"Hipermercat Alcampo *Diagonal Mar","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"Diagonal Mar i el Front Marítim del Poblenou","addresses_district_name":"Sant Martí","addresses_zip_code":8019,"geo_epgs_4326_x":41.410457444,"geo_epgs_4326_y":2.2164227599},{"name":"Botiga FNAC *Glòries","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"el Parc i la Llacuna del Poblenou","addresses_district_name":"Sant Martí","addresses_zip_code":8018,"geo_epgs_4326_x":41.4049757486,"geo_epgs_4326_y":2.1925213553},{"name":"Centre Comercial El Corte Inglés *Avinguda Diagonal","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"les Corts","addresses_district_name":"Les Corts","addresses_zip_code":8028,"geo_epgs_4326_x":41.3879992956,"geo_epgs_4326_y":2.1279372707},{"name":"Botiga Decathlon *Illa Diagonal","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"les Corts","addresses_district_name":"Les Corts","addresses_zip_code":8029,"geo_epgs_4326_x":41.3897455997,"geo_epgs_4326_y":2.1353959606},{"name":"Servei Estació *Aragó","addresses_road_name":"C Aragó","addresses_neighborhood_name":"la Dreta de l'Eixample","addresses_district_name":"Eixample","addresses_zip_code":8007,"geo_epgs_4326_x":41.3914506883,"geo_epgs_4326_y":2.1641752148},{"name":"Centre Comercial Westfield La Maquinista","addresses_road_name":"Passeig de Potosí","addresses_neighborhood_name":"el Bon Pastor","addresses_district_name":"Sant Andreu","addresses_zip_code":8030,"geo_epgs_4326_x":41.4425624487,"geo_epgs_4326_y":2.1983701696},{"name":"Botiga FNAC *Illa Diagonal","addresses_road_name":"Av Diagonal","addresses_neighborhood_name":"les Corts","addresses_district_name":"Les Corts","addresses_zip_code":8029,"geo_epgs_4326_x":41.3898232651,"geo_epgs_4326_y":2.1349206839},{"name":"Centre Comercial El Centre de la Vila","addresses_road_name":"C Salvador Espriu","addresses_neighborhood_name":"la Vila Olímpica del Poblenou","addresses_district_name":"Sant Martí","addresses_zip_code":8005,"geo_epgs_4326_x":41.3909274222,"geo_epgs_4326_y":2.1978686795},{"name":"Botiga Decathlon *Plaça Vila de Madrid","addresses_road_name":"Canuda","addresses_neighborhood_name":"el Barri Gòtic","addresses_district_name":"Ciutat Vella","addresses_zip_code":8002,"geo_epgs_4326_x":41.3847216054,"geo_epgs_4326_y":2.1728468793},{"name":"El Corte Inglés *Avinguda Portal de l'Àngel","addresses_road_name":"Av Portal de l'Àngel","addresses_neighborhood_name":"el Barri Gòtic","addresses_district_name":"Ciutat Vella","addresses_zip_code":8002,"geo_epgs_4326_x":41.3858760409,"geo_epgs_4326_y":2.1725472855},{"name":"Centre Comercial Arenas de Barcelona","addresses_road_name":"G.V. Corts Catalanes","addresses_neighborhood_name":"la Nova Esquerra de l'Eixample","addresses_district_name":"Eixample","addresses_zip_code":8015,"geo_epgs_4326_x":41.3760383384,"geo_epgs_4326_y":2.149975296},{"name":"Botiga Bauhaus *Passeig Zona Franca","addresses_road_name":"Passeig de la Zona Franca","addresses_neighborhood_name":"la Marina de Port","addresses_district_name":"Sants-Montjuïc","addresses_zip_code":8038,"geo_epgs_4326_x":41.3577666161,"geo_epgs_4326_y":2.1405095772},{"name":"Botiga FNAC *Arenas de Barcelona","addresses_road_name":"G.V. Corts Catalanes","addresses_neighborhood_name":"la Nova Esquerra de l'Eixample","addresses_district_name":"Eixample","addresses_zip_code":8015,"geo_epgs_4326_x":41.3760383384,"geo_epgs_4326_y":2.149975296},{"name":"Botiga FNAC *La Maquinista","addresses_road_name":"Pg Potosí","addresses_neighborhood_name":"el Bon Pastor","addresses_district_name":"Sant Andreu","addresses_zip_code":8030,"geo_epgs_4326_x":41.4425624487,"geo_epgs_4326_y":2.1983701696},{"name":"Botiga Wala","addresses_road_name":"Pg Zona Franca","addresses_neighborhood_name":"la Marina de Port","addresses_district_name":"Sants-Montjuïc","addresses_zip_code":8038,"geo_epgs_4326_x":41.3617807848,"geo_epgs_4326_y":2.13759792}]
+[
+    {
+        "name": "Centre Comercial Som Multiespai",
+        "addresses_road_name": "Av Rio de Janeiro",
+        "addresses_neighborhood_name": "Porta",
+        "addresses_district_name": "Nou Barris",
+        "addresses_zip_code": 8016,
+        "geo_epgs_4326_x": 41.4351247303,
+        "geo_epgs_4326_y": 2.1810417658
+    },
+    {
+        "name": "Centre Comercial Diagonal Mar",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "Diagonal Mar i el Front Marítim del Poblenou",
+        "addresses_district_name": "Sant Martí",
+        "addresses_zip_code": 8019,
+        "geo_epgs_4326_x": 41.410457444,
+        "geo_epgs_4326_y": 2.2164227599
+    },
+    {
+        "name": "Hipermercat Carrefour *Glòries",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "el Parc i la Llacuna del Poblenou",
+        "addresses_district_name": "Sant Martí",
+        "addresses_zip_code": 8018,
+        "geo_epgs_4326_x": 41.4049757486,
+        "geo_epgs_4326_y": 2.1925213553
+    },
+    {
+        "name": "Centre Comercial L'Illa Diagonal",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "les Corts",
+        "addresses_district_name": "Les Corts",
+        "addresses_zip_code": 8029,
+        "geo_epgs_4326_x": 41.3897455997,
+        "geo_epgs_4326_y": 2.1353959606
+    },
+    {
+        "name": "Centre Comercial Westfield Glòries",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "el Parc i la Llacuna del Poblenou",
+        "addresses_district_name": "Sant Martí",
+        "addresses_zip_code": 8018,
+        "geo_epgs_4326_x": 41.4049757486,
+        "geo_epgs_4326_y": 2.1925213553
+    },
+    {
+        "name": "Centre Comercial Maremàgnum",
+        "addresses_road_name": "Moll Espanya",
+        "addresses_neighborhood_name": "el Barri Gòtic",
+        "addresses_district_name": "Ciutat Vella",
+        "addresses_zip_code": 8039,
+        "geo_epgs_4326_x": 41.3757618954,
+        "geo_epgs_4326_y": 2.1832313336
+    },
+    {
+        "name": "Centre Comercial El Triangle",
+        "addresses_road_name": "C Pelai",
+        "addresses_neighborhood_name": "la Dreta de l'Eixample",
+        "addresses_district_name": "Eixample",
+        "addresses_zip_code": 8001,
+        "geo_epgs_4326_x": 41.3857340657,
+        "geo_epgs_4326_y": 2.1688916589
+    },
+    {
+        "name": "Hipercor *Avinguda Meridiana",
+        "addresses_road_name": "Av Meridiana",
+        "addresses_neighborhood_name": "la Sagrera",
+        "addresses_district_name": "Sant Andreu",
+        "addresses_zip_code": 8027,
+        "geo_epgs_4326_x": 41.4279468366,
+        "geo_epgs_4326_y": 2.1850127148
+    },
+    {
+        "name": "Botiga FNAC *El Triangle",
+        "addresses_road_name": "Pl Catalunya",
+        "addresses_neighborhood_name": "la Dreta de l'Eixample",
+        "addresses_district_name": "Eixample",
+        "addresses_zip_code": 8002,
+        "geo_epgs_4326_x": 41.3860450751,
+        "geo_epgs_4326_y": 2.1694182154
+    },
+    {
+        "name": "El Corte Inglés *Can Dragó",
+        "addresses_road_name": "Pg Andreu Nin",
+        "addresses_neighborhood_name": "Porta",
+        "addresses_district_name": "Nou Barris",
+        "addresses_zip_code": 8016,
+        "geo_epgs_4326_x": 41.4363372665,
+        "geo_epgs_4326_y": 2.1812610516
+    },
+    {
+        "name": "Hipermercat Carrefour *La Maquinista",
+        "addresses_road_name": "Pg Potosí",
+        "addresses_neighborhood_name": "el Bon Pastor",
+        "addresses_district_name": "Sant Andreu",
+        "addresses_zip_code": 8030,
+        "geo_epgs_4326_x": 41.4425624577,
+        "geo_epgs_4326_y": 2.1983701814
+    },
+    {
+        "name": "El Corte Inglés *Plaça Catalunya",
+        "addresses_road_name": "Pl Catalunya",
+        "addresses_neighborhood_name": "la Dreta de l'Eixample",
+        "addresses_district_name": "Eixample",
+        "addresses_zip_code": 8002,
+        "geo_epgs_4326_x": 41.3878341439,
+        "geo_epgs_4326_y": 2.171224014
+    },
+    {
+        "name": "Hipermercat Alcampo *Diagonal Mar",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "Diagonal Mar i el Front Marítim del Poblenou",
+        "addresses_district_name": "Sant Martí",
+        "addresses_zip_code": 8019,
+        "geo_epgs_4326_x": 41.410457444,
+        "geo_epgs_4326_y": 2.2164227599
+    },
+    {
+        "name": "Botiga FNAC *Glòries",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "el Parc i la Llacuna del Poblenou",
+        "addresses_district_name": "Sant Martí",
+        "addresses_zip_code": 8018,
+        "geo_epgs_4326_x": 41.4049757486,
+        "geo_epgs_4326_y": 2.1925213553
+    },
+    {
+        "name": "Centre Comercial El Corte Inglés *Avinguda Diagonal",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "les Corts",
+        "addresses_district_name": "Les Corts",
+        "addresses_zip_code": 8028,
+        "geo_epgs_4326_x": 41.3879992956,
+        "geo_epgs_4326_y": 2.1279372707
+    },
+    {
+        "name": "Botiga Decathlon *Illa Diagonal",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "les Corts",
+        "addresses_district_name": "Les Corts",
+        "addresses_zip_code": 8029,
+        "geo_epgs_4326_x": 41.3897455997,
+        "geo_epgs_4326_y": 2.1353959606
+    },
+    {
+        "name": "Servei Estació *Aragó",
+        "addresses_road_name": "C Aragó",
+        "addresses_neighborhood_name": "la Dreta de l'Eixample",
+        "addresses_district_name": "Eixample",
+        "addresses_zip_code": 8007,
+        "geo_epgs_4326_x": 41.3914506883,
+        "geo_epgs_4326_y": 2.1641752148
+    },
+    {
+        "name": "Centre Comercial Westfield La Maquinista",
+        "addresses_road_name": "Passeig de Potosí",
+        "addresses_neighborhood_name": "el Bon Pastor",
+        "addresses_district_name": "Sant Andreu",
+        "addresses_zip_code": 8030,
+        "geo_epgs_4326_x": 41.4425624487,
+        "geo_epgs_4326_y": 2.1983701696
+    },
+    {
+        "name": "Botiga FNAC *Illa Diagonal",
+        "addresses_road_name": "Av Diagonal",
+        "addresses_neighborhood_name": "les Corts",
+        "addresses_district_name": "Les Corts",
+        "addresses_zip_code": 8029,
+        "geo_epgs_4326_x": 41.3898232651,
+        "geo_epgs_4326_y": 2.1349206839
+    },
+    {
+        "name": "Centre Comercial El Centre de la Vila",
+        "addresses_road_name": "C Salvador Espriu",
+        "addresses_neighborhood_name": "la Vila Olímpica del Poblenou",
+        "addresses_district_name": "Sant Martí",
+        "addresses_zip_code": 8005,
+        "geo_epgs_4326_x": 41.3909274222,
+        "geo_epgs_4326_y": 2.1978686795
+    },
+    {
+        "name": "Botiga Decathlon *Plaça Vila de Madrid",
+        "addresses_road_name": "Canuda",
+        "addresses_neighborhood_name": "el Barri Gòtic",
+        "addresses_district_name": "Ciutat Vella",
+        "addresses_zip_code": 8002,
+        "geo_epgs_4326_x": 41.3847216054,
+        "geo_epgs_4326_y": 2.1728468793
+    },
+    {
+        "name": "El Corte Inglés *Avinguda Portal de l'Àngel",
+        "addresses_road_name": "Av Portal de l'Àngel",
+        "addresses_neighborhood_name": "el Barri Gòtic",
+        "addresses_district_name": "Ciutat Vella",
+        "addresses_zip_code": 8002,
+        "geo_epgs_4326_x": 41.3858760409,
+        "geo_epgs_4326_y": 2.1725472855
+    },
+    {
+        "name": "Centre Comercial Arenas de Barcelona",
+        "addresses_road_name": "G.V. Corts Catalanes",
+        "addresses_neighborhood_name": "la Nova Esquerra de l'Eixample",
+        "addresses_district_name": "Eixample",
+        "addresses_zip_code": 8015,
+        "geo_epgs_4326_x": 41.3760383384,
+        "geo_epgs_4326_y": 2.149975296
+    },
+    {
+        "name": "Botiga Bauhaus *Passeig Zona Franca",
+        "addresses_road_name": "Passeig de la Zona Franca",
+        "addresses_neighborhood_name": "la Marina de Port",
+        "addresses_district_name": "Sants-Montjuïc",
+        "addresses_zip_code": 8038,
+        "geo_epgs_4326_x": 41.3577666161,
+        "geo_epgs_4326_y": 2.1405095772
+    },
+    {
+        "name": "Botiga FNAC *Arenas de Barcelona",
+        "addresses_road_name": "G.V. Corts Catalanes",
+        "addresses_neighborhood_name": "la Nova Esquerra de l'Eixample",
+        "addresses_district_name": "Eixample",
+        "addresses_zip_code": 8015,
+        "geo_epgs_4326_x": 41.3760383384,
+        "geo_epgs_4326_y": 2.149975296
+    },
+    {
+        "name": "Botiga FNAC *La Maquinista",
+        "addresses_road_name": "Pg Potosí",
+        "addresses_neighborhood_name": "el Bon Pastor",
+        "addresses_district_name": "Sant Andreu",
+        "addresses_zip_code": 8030,
+        "geo_epgs_4326_x": 41.4425624487,
+        "geo_epgs_4326_y": 2.1983701696
+    },
+    {
+        "name": "Botiga Wala",
+        "addresses_road_name": "Pg Zona Franca",
+        "addresses_neighborhood_name": "la Marina de Port",
+        "addresses_district_name": "Sants-Montjuïc",
+        "addresses_zip_code": 8038,
+        "geo_epgs_4326_x": 41.3617807848,
+        "geo_epgs_4326_y": 2.13759792
+    }
+]
