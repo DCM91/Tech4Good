@@ -13,7 +13,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 @AllArgsConstructor
 @NoArgsConstructor
 @Document(collection = "marketsFairs")
-public class MarketsMun {
+public class MarketMun {
 
     @Id
     @Schema(description = "Id")

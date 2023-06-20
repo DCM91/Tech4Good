@@ -13,7 +13,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 @AllArgsConstructor
 @NoArgsConstructor
 @Document(collection = "commercialGalleries")
-public class CommercialGalleries {
+public class CommercialGallery {
     @Id
     @Schema(description = "Id")
     private ObjectId id;

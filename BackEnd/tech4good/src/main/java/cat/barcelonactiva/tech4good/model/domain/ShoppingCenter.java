@@ -12,9 +12,8 @@ import org.springframework.data.mongodb.core.mapping.Field;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Document(collection = "marketsFairs")
-public class MarketsFairs {
-
+@Document(collection = "shoppingCenters")
+public class ShoppingCenter {
     @Id
     @Schema(description = "Id")
     private ObjectId id;
@@ -46,6 +45,4 @@ public class MarketsFairs {
     @Field("geo_epgs_4326_y")
     @Schema(description = "Latitude")
     private String latitude;
-
-
 }

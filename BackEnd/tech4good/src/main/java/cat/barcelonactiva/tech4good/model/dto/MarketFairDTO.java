@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class MarketsFairsDTO {
+public class MarketFairDTO {
 
     @Schema(description = "Name")
     private String name;
