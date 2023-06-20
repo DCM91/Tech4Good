@@ -17,12 +17,15 @@ export default function Home() {
 
 
   return (
-     <Layout title="Dcm91Portfolio - Home">
-        <div>
-            <h1
-             className="flex justify-center items-center text-xl h-80" >
-              {t.home.title}</h1>
-        </div>   
-      </Layout>
+    <Layout title="Dcm91Portfolio - Home">
+      <div className="container_home">
+         <div className="home_content">
+            <h1>Moute, <span className="home_bold">Barcelona.</span></h1>
+            <p>El <span className="home_bold">comerç local</span> contribueix a una <span className="home_bold">Barcelona</span> més forta, vibrant i sostenible.</p>
+            <p>Et donem tota <span className="home_bold">la informació que necessites.</span></p>
+            <button className="home_button">Busca al meu entorn</button> 
+        </div>
+      </div>  
+    </Layout>
   )
 }
