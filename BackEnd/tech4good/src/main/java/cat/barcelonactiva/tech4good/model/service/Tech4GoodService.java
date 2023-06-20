@@ -22,7 +22,6 @@ public class Tech4GoodService {
 
         List<CommercialCensus> commercialCensusDTOS = commercialCensusRepository.findAll();
         return convertCommercialCensusListToDTO(commercialCensusDTOS);
-
     }
 
     /**
