@@ -35,9 +35,9 @@ export const Layout = ({ title = "TECH4GOOD" , children}) => {
           </div>
         </header>
 
-        <main className='border-4 border-orange-700'>{children}</main>
+        <main className=''>{children}</main>
 
-        <footer className='w-full flex items-center justify-center my-1 text-3xl'>SOY UN FOOTER</footer>
+        <footer className='w-full flex items-center justify-center my-1 text-3xl h-20'>SOY UN FOOTER</footer>
     </div>
   )
 }

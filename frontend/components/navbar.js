@@ -17,12 +17,10 @@ export const Navbar = ({theme}) => {
               </a>
               <ul className="p-2 bg-base-100 z-10">
                 <li><Link href={"/comercios"} >Mercats i Fires</Link></li>
-                <li><a>Mercats Municipals</a></li>
+                <li><Link href={"/mercatsMunicipals"} >Mercats Municipals</Link></li>
                 <li><a>Grans Establiments</a></li>
                 <li><a>Galeries Comercials</a></li>
                 <li><a>Centres Comercials</a></li>
-
-
               </ul>
             </li>
             <li><a>FAQ´s</a></li>
