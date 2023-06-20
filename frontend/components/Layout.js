@@ -37,7 +37,7 @@ export const Layout = ({ title = "Dcm91Portfolio" , children}) => {
 
         <main className='border-4 border-orange-700'>{children}</main>
 
-        <footer className=''>SOY UN FOOTER</footer>
+        <footer className='w-full flex items-center justify-center my-1 text-3xl'>SOY UN FOOTER</footer>
     </div>
   )
 }
