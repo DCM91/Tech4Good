@@ -16,11 +16,11 @@ export const Navbar = ({theme}) => {
                 <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
               </a>
               <ul className="p-2 bg-base-100 z-10">
-                <li><Link href={"/comercios"} >Mercats i Fires</Link></li>
+                <li><Link href={"/mercatsFires"} >Mercats i Fires</Link></li>
                 <li><Link href={"/mercatsMunicipals"} >Mercats Municipals</Link></li>
-                <li><a>Grans Establiments</a></li>
-                <li><a>Galeries Comercials</a></li>
-                <li><a>Centres Comercials</a></li>
+                <li><Link href={"/gransEstabliments"} >Grans Establiments</Link></li>
+                <li><Link href={"/galeriesComercials"} >Galeries Comercials</Link></li>
+                <li><Link href={"/centresComercials"} >Centres Comercials</Link></li>
               </ul>
             </li>
             <li><a>FAQ´s</a></li>

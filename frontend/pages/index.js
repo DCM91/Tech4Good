@@ -18,7 +18,7 @@ export default function Home() {
 
 
   return (
-    <Layout title="Dcm91Portfolio - Home">
+    <Layout title="tech4good - Home">
       <div className="container_home">
          <div className="home_content">
             <h1>Moute, <span className="home_bold">Barcelona.</span></h1>
