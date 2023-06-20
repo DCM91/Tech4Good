@@ -23,14 +23,14 @@ export default function comercios() {
                     <h2 className="font-bold  text-2xl text-center">Mercats Municipals</h2>
                     <p className='text-center'>Mercats Municipals</p>
                 </div>
-            </div>            
+            </div>
             <div className="card p-4 w-80 justify-center bg-base-100 shadow-xl border-4 border-primary">
                 <AiFillShopping className='w-full text-5xl justify-center text-center'></AiFillShopping>
                 <div className="card-body w-full">
-                    <h2 className="font-bold  text-2xl text-center">Centres Comercials</h2>
-                    <p className='text-center'>Centres Comercials</p>
+                    <h2 className="font-bold  text-2xl text-center">Grans Establiments</h2>
+                    <p className='text-center'>Grans Establiments</p>
                 </div>
-            </div> 
+            </div>            
             <div className="card p-4 w-80 justify-center bg-base-100 shadow-xl border-4 border-primary">
                 <AiFillShopping className='w-full text-5xl justify-center text-center'></AiFillShopping>
                 <div className="card-body w-full">
@@ -38,13 +38,13 @@ export default function comercios() {
                     <p className='text-center'>Galeries Comercials</p>
                 </div>
             </div> 
-           <div className="card p-4 w-80 justify-center bg-base-100 shadow-xl border-4 border-primary">
+            <div className="card p-4 w-80 justify-center bg-base-100 shadow-xl border-4 border-primary">
                 <AiFillShopping className='w-full text-5xl justify-center text-center'></AiFillShopping>
                 <div className="card-body w-full">
-                    <h2 className="font-bold  text-2xl text-center">Grans Establiments</h2>
-                    <p className='text-center'>Grans Establiments</p>
+                    <h2 className="font-bold  text-2xl text-center">Centres Comercials</h2>
+                    <p className='text-center'>Centres Comercials</p>
                 </div>
-            </div>
+            </div> 
           
         </div>
         </div>
