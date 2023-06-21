@@ -25,7 +25,7 @@ export const Layout = ({ title = "TECH4GOOD" , children}) => {
         </Head>
 
         <header className='w-full'>
-          <div>
+          <div className='px-4'>
             <Navbar theme={theme} />
             <div className='w-full flex items-center justify-end my-4'>
               <BsFillSunFill className='mx-1 text-lg'/>
@@ -37,7 +37,7 @@ export const Layout = ({ title = "TECH4GOOD" , children}) => {
 
         <main className=''>{children}</main>
 
-        <footer className='w-full flex items-center justify-center my-1 text-3xl h-28'>FOOTER</footer>
+        <footer className='w-full flex items-center justify-center my-1 text-3xl font-bold h-28'>BARCELONA ACTIVA</footer>
     </div>
   )
 }

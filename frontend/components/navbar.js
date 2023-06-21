@@ -5,7 +5,7 @@ export const Navbar = ({theme}) => {
   return (
       <div data-theme={theme} className="navbar bg-base-100">
         <div className="flex-1">
-          <Link href={"/"} className="btn btn-ghost normal-case text-xl">TECH4GOOD</Link>
+          <Link href={"/"} className="btn btn-ghost text-4xl normal-case">TECH4GOOD</Link>
         </div>
         <div className="flex-none">
           <ul className="menu menu-horizontal px-1">

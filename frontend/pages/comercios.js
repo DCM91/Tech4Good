@@ -11,14 +11,14 @@ export default function comercios() {
         <div className='grid px-10 py-10'> 
         <h1 className='text-4xl font-extrabold mb-4'>Locals de proximitat</h1>
         
-        <div className='flex flex-wrap gap-10 justify-center mx-10'>
+        <div className='flex flex-wrap gap-10 justify-center mx-5'>
 
             <Link href={"/mercatsFires"}>
                 <div className="card p-4 w-100 h-52 justify-center bg-base-100 shadow-xl border-4 border-primary">
                     <AiFillShopping className='w-full text-5xl justify-center text-center'></AiFillShopping>
                     <div className="card-body w-full">
-                    <h2 className="font-bold  text-2xl text-center">Mercats i fires</h2>
-                    <p className='text-center'>Mercats i fires</p>
+                    <h2 className="font-bold  text-2xl text-center">Mercats i Fires</h2>
+                    <p className='text-center'>Mercats i Fires</p>
                     </div>
                 </div> 
             </Link>

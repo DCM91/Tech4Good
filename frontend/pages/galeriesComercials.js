@@ -14,7 +14,7 @@ export default function galeriesComercials() {
             <Barris />
           </div>
         </div>
-        <div className='w-1/3'>hahahahah </div> 
+        <div className='w-1/3'>Nom Activitat</div> 
         <div className="flex items-center justify-center h-full">
           <Image  src={"/mapa.png"} width={500} height={300}/>
         </div> 

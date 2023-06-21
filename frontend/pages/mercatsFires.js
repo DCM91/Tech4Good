@@ -5,8 +5,6 @@
  import axios from 'axios';
 
 
-
-
  export default function mercatsFires() {
    const [actividades, setActividades] = useState([]);
    const [loading, setLoading] = useState(true);
@@ -21,10 +19,11 @@
        } catch (error) {
          console.error(error);
        }
-     };
 
+     };
      fetchData();
    }, []);
+   
 
    return (
      <Layout title="Tech4good - Mercats i Fires">
@@ -42,7 +41,7 @@
              ) : (
                <ul>
                  {actividades.map((actividad) => (
-                   <li key={actividad.id}>{actividad.nombre}</li>
+                   <li>{actividad.Nom_Activitat}</li>
                  ))}
                </ul>
              )}
